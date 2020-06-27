@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\ncu_ts\desktop\研究生相关\1学习及刷题笔记\1.数据结构\code\基本概念\project1\project1\main.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\ncu_ts\desktop\研究生相关\1学习及刷题笔记\1.数据结构\code\基本概念\project1\project1\main.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> C:\Users\NCU_TS\Desktop\研究生相关\1学习及刷题笔记\1.数据结构\code\基本概念\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\NCU_TS\Desktop\研究生相关\1学习及刷题笔记\1.数据结构\code\基本概念\Project1\Debug\Project1.pdb (Partial PDB)
