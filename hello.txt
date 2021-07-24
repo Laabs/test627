@@ -3,6 +3,10 @@ ttttttttttt
 hellow git! hellow atgui!git staffffdaiojoiog!
 this is the first modeify!!!---------------------------------
 this is the second modeify!!!----------------------------------
+<<<<<<< HEAD
 this is the third modeify!!!------------------------------------
 this is the four modeify!!!---------------------------------------
+
+
+hot_dev!
 
