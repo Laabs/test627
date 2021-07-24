@@ -1,5 +1,3 @@
-
-
 <center> <font face="黑体" size=6 color=red>git命令速查</font></center>
 
 > * git --version   查看git 版本
@@ -61,3 +59,6 @@
 
 > git branch 分支名                                  创建分支(创建的时候会复制主分支的内容)
 
+##### 2.3切换分支
+
+> git checkout 分支名                                切换到某个分支
