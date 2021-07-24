@@ -76,4 +76,20 @@
 ##### 3.1创建远程仓库别名
 
 > git remote -v                                          查看当前所有远程地址别名
+>
+> git remote add 别名 远程地址              起别名
+>
+> > <b>远程地址的获取方式：</b>
+> >
+> > ![图片 img1](https://raw.githubusercontent.com/Laabs/Img/master/%E5%88%9B%E5%BB%BA%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%931.jpg)
+> >
+> > ![图片 img2](https://raw.githubusercontent.com/Laabs/Img/master/%E5%88%9B%E5%BB%BA%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%932.jpg)
+
+##### 3.2推送本地分支到远程仓库
+
+>git push 别名 分支                               将某个分支推送到远程
+
+##### 3.3克隆远程仓库到本地
+
+> git clone 远程地址
 
